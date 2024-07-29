@@ -1,4 +1,4 @@
-# Students Data Analysis
+# Student Data Analysis
 
 ## Introduction
 
